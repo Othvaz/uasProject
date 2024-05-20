@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "todoList/1.0.0": {
+        "dependencies": {
+          "InputLibrary": "1.0.0",
+          "TodoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "todoList.dll": {}
+        }
+      },
+      "InputLibrary/1.0.0": {
+        "runtime": {
+          "InputLibrary.dll": {}
+        }
+      },
+      "TodoLibrary/1.0.0": {
+        "runtime": {
+          "TodoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "todoList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InputLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

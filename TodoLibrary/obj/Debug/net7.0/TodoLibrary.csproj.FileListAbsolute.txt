@@ -1,0 +1,12 @@
+C:\Projects\TodoApp\TodoLibrary\bin\Debug\net7.0\TodoLibrary.deps.json
+C:\Projects\TodoApp\TodoLibrary\bin\Debug\net7.0\TodoLibrary.dll
+C:\Projects\TodoApp\TodoLibrary\bin\Debug\net7.0\TodoLibrary.pdb
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\TodoLibrary.csproj.AssemblyReference.cache
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\TodoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\TodoLibrary.AssemblyInfoInputs.cache
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\TodoLibrary.AssemblyInfo.cs
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\TodoLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\TodoLibrary.dll
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\refint\TodoLibrary.dll
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\TodoLibrary.pdb
+C:\Projects\TodoApp\TodoLibrary\obj\Debug\net7.0\ref\TodoLibrary.dll

@@ -1,0 +1,12 @@
+C:\Projects\TodoApp\InputLibrary\bin\Debug\net7.0\InputLibrary.deps.json
+C:\Projects\TodoApp\InputLibrary\bin\Debug\net7.0\InputLibrary.dll
+C:\Projects\TodoApp\InputLibrary\bin\Debug\net7.0\InputLibrary.pdb
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\InputLibrary.csproj.AssemblyReference.cache
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\InputLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\InputLibrary.AssemblyInfoInputs.cache
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\InputLibrary.AssemblyInfo.cs
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\InputLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\InputLibrary.dll
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\refint\InputLibrary.dll
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\InputLibrary.pdb
+C:\Projects\TodoApp\InputLibrary\obj\Debug\net7.0\ref\InputLibrary.dll
